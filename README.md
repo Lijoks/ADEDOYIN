@@ -6,9 +6,9 @@ I'm a skilled data scientist with hands on experience with a strong background i
 1. Attendance management system
 2. Wine quality prediction 
 3. Hybrid movie recommendation system
-##EDUCATION
+# EDUCATION
 BTech Statistics
-##CERTIFICATIONS
+# CERTIFICATIONS
 Datacamp 
-##CONTACTS
+# CONTACTS
 lijoskibaba@gmail.com
