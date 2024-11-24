@@ -1,5 +1,5 @@
 title: LIJOKA ADEDOYIN
 image: IMG_0005.JPG
 description: DATA SCIENTIST
-download: True
-theme: jekyll-theme-architect
+allow_download: True
+theme: jekyll-theme-minimal
