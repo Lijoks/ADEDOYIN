@@ -15,6 +15,7 @@ I envision a future where data-driven decision-making leads to exciting new poss
 1. Attendance management system
 2. Wine quality prediction
 3. Hybrid movie recommendation system
+4. Telecommunications customer churn analysis
 ## EDUCATION
 BTech Statistics
 ## CERTIFICATIONS
